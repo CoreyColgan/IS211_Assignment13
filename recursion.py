@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
 # Part 1 - Implement the Fibonacci sequence -
 # Write a function in recursion.py, called fibonnaci, which will accept one integer 
 # parameter (lets call it n) and returns the nth element of the Fibonnaci sequence.
@@ -56,11 +53,3 @@ def compareTo(s1, s2):
 print (compareTo('shortstr', 'longstring'))
 print (compareTo('same', 'same'))
 print (compareTo('longstring', 'shortstr'))
-        
-
-
-# In[ ]:
-
-
-
-
